@@ -61,3 +61,6 @@ hr{
     color: white;
 }
 
+.navigation .nav-pills{
+    text-align: right;
+}
