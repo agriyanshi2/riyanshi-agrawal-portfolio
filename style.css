@@ -94,6 +94,7 @@ hr{
     color: var(--primary-color);
 }
 
-.section h1,h2,h3{
+.section h1{
     text-align: center;
+    padding: 2rem;
 }
