@@ -89,3 +89,7 @@ hr{
 .head .head-heading{
     color: var(--dark-grey);
 }
+
+.head .head-heading .heading-inverted{
+    color: var(--primary-color);
+}
