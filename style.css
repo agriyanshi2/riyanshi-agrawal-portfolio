@@ -65,3 +65,8 @@ hr{
 .navigation .nav-pills{
     text-align: right;
 }
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: larger;
+}
