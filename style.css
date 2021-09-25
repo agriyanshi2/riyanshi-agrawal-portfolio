@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@700&display=swap');
 
+:root{
+    --primary-color: #DE3E60;
+}
+
 body{
     font-family: 'Scheherazade New', serif;
     font-size: large;
@@ -16,3 +20,11 @@ body{
 
 }
 
+.links{
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+.primary-link{
+    color: var{var(--primary-color);
+}
