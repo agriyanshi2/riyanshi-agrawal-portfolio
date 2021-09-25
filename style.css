@@ -41,3 +41,7 @@ hr{
     border: 1px solid var(--primary-color);
 
 }
+
+.non-bullet{
+    list-style: none;
+}
