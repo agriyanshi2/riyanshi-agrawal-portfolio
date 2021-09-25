@@ -93,3 +93,7 @@ hr{
 .head .head-heading .heading-inverted{
     color: var(--primary-color);
 }
+
+.section h1,h2,h3{
+    text-align: center;
+}
