@@ -9,6 +9,10 @@ body{
     font-size: large;
 }
 
+hr{
+    margin: 1rem 0rem;
+}
+
 .container{
     padding-left: 1rem;
     padding-right: 1rem;
@@ -35,5 +39,5 @@ body{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
-    
+
 }
